@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ragvijay2\\Desktop\\PS training materials\\Practice\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {}
+    "C:\\Users\\ragvijay2\\Desktop\\PS training materials\\Practice\\GithubPractice\\StudentAPI\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ragvijay2\\Desktop\\PS training materials\\Practice\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {
+    "C:\\Users\\ragvijay2\\Desktop\\PS training materials\\Practice\\GithubPractice\\StudentAPI\\StudentManagement\\StudentManagement\\StudentManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ragvijay2\\Desktop\\PS training materials\\Practice\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+        "projectUniqueName": "C:\\Users\\ragvijay2\\Desktop\\PS training materials\\Practice\\GithubPractice\\StudentAPI\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
         "projectName": "StudentManagement",
-        "projectPath": "C:\\Users\\ragvijay2\\Desktop\\PS training materials\\Practice\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
+        "projectPath": "C:\\Users\\ragvijay2\\Desktop\\PS training materials\\Practice\\GithubPractice\\StudentAPI\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
         "packagesPath": "C:\\Users\\ragvijay2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ragvijay2\\Desktop\\PS training materials\\Practice\\StudentManagement\\StudentManagement\\obj\\",
+        "outputPath": "C:\\Users\\ragvijay2\\Desktop\\PS training materials\\Practice\\GithubPractice\\StudentAPI\\StudentManagement\\StudentManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ragvijay2\\AppData\\Roaming\\NuGet\\NuGet.Config",
